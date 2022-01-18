@@ -1,0 +1,42 @@
+html{
+    background-color: 	#FFF7C4;
+      font-family: 'Cormorant Garamond', serif;
+      text-align: justify;
+      font-size: 20px;
+     }
+    
+    #title{
+      font-family: 'PT Serif', serif;
+      color: #F80520;
+      font-size: 40px;
+      text-align: center;
+     }
+    h2{
+      font-family: 'PT Serif', serif;
+      color: #F80520;
+    }
+    footer{
+      font-family: 'Courgette', cursive;
+      font-size: 22px;
+      text-align: center;
+    }
+    #main{
+      margin: 5px;
+      padding: 5px;
+      border-radius: 5px;
+      color: #99001A;
+    }
+    #img-div{
+      text-align: center;
+      display: block;
+    }
+    #image{
+      max-width: 100%;
+      display: block;
+      margin: auto;
+      height: auto;
+      border-color: black;
+      border-width: 5px;
+      border-style: solid;
+    }
+    
